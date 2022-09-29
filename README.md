@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Augustine
+- 👀 I’m interested in fullstack development with Python/Django, NodeJS and React
+- 🌱 I’m currently learning Rust
+- 💞️ I’m looking to collaborate on an inspiring project
+- 📫 If you want to reach me, mention my name three times and i'll be there...just kidding
+-     Email me at absaugustineflash@gmail.com
