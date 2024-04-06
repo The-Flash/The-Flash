@@ -1,5 +1,11 @@
 # Hi there 👋!
 
+- 👋 I’m Augustine
+- 👀 I’m a fullstack developer
+- 🌱 I’m currently learning Go
+- 💞️ I’m looking to collaborate on an inspiring project
+- 📫 If you want to reach me, mention my name three times and I'll be there...just kidding
+
 ## Skills
 - **Languages:** NodeJS, Python/Django, Golang, TypeScript, Dart
 - **Databases:** PostgreSQL, MySQL
