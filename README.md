@@ -1,4 +1,4 @@
-# Welcome to Augustine's Portfolio!
+# Hi there 👋!
 
 ## Skills
 - **Languages:** NodeJS, Python/Django, Golang, TypeScript, Dart
